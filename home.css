@@ -1,0 +1,50 @@
+body {
+  background-image: url(https://th.bing.com/th/id/OIP.8At1W4zolSgBkm-9oJVF1gHaE7?w=252&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+header {
+    color: white;
+    padding: 1rem;
+    width: 100%;
+}
+
+nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.hero-content {
+    text-align: center;
+    color: white;
+    
+}
+
+.cta-button {
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    
+
+}
+
